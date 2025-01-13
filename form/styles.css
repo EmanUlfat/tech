@@ -71,11 +71,14 @@ button {
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    display: block; /* Make button a block element */
+    margin: 0 auto;
 }
 
 button[type="button"] {
     background-color: #28a745;
     color: white;
+    
 }
 
 button[type="button"]:hover {
