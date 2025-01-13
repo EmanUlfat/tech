@@ -31,5 +31,9 @@ function calculateResult() {
         display.value = eval(display.value); // Evaluate the expression
     } catch {
         display.value = 'Error'; // Display an error for invalid expressions
+
+        setTimeout(() => {
+            clearDisplay();
+        }, 2000);
     }
 }
