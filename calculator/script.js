@@ -3,6 +3,13 @@
 
 function appendToDisplay(value) {
     const display = document.getElementById('display');
+    if (value === '.') {
+        const currentValue = display.value;
+        const lastNumber = currentValue.split(/[\+\-\*\/]/).pop(); // Split by operators
+        if (lastNumber.includes('.')) {
+            return; // Prevent adding another decimal point
+        }
+    }
     display.value += value;
 }
 
