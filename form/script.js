@@ -107,4 +107,7 @@ function validateForm(formType) {
         }
     }
 }
-
+document.getElementById("signupForm").addEventListener("reset", function () {
+    const errorElements = document.querySelectorAll(".error");
+    errorElements.forEach(error => (error.textContent = ""));
+});
