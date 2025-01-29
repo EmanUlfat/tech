@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Eman Ulfat!
 
-🌟 Passionate about Coding | 💻 Learning **React.js & Django** | 🎨 Beginner in Graphic Design | HTML | CSS (Tailwind & Bootstrap) | Javascript (React.js) 
+🌟 Passionate about Coding  | 💻 Learning **React.js & Django**  | HTML | CSS (Tailwind & Bootstrap) | Javascript (React.js) | 🎨 Beginner in Graphic Design
 
 ---
 
