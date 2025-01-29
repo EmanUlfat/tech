@@ -1,8 +1,29 @@
-# React + Vite
+# 👋 Hello, I'm Eman Ulfat!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌟 Passionate about Coding | 💻 Learning **React.js & Django** | 🎨 Beginner in Graphic Design | HTML | CSS (Tailwind & Bootstrap) | Javascript (React.js) 
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 What I'm Working On
+- **Nursery Management System** 🌱 (Django + Javascript + HTML )
+- **Frontend Development** (React + Tailwind CSS)
+- **Improving UI/UX Design Skills**
+
+---
+
+## 📚 Skills & Technologies
+- **Languages:** JavaScript, Python  
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Django, Django REST Framework  
+- **Tools:** Git, GitHub, Figma  
+
+---
+
+## 📫 How to Reach Me
+- **Email:** emanulfat792@gmail.com  
+- **GitHub:** [EmanUlfat]((https://github.com/EmanUlfat))  
+- **LinkedIn:** [Eman Ulfat]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/eman-ulfat-070b78302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+
+---
+
+💡 *I love learning new things, building projects, and sharing knowledge!* 
